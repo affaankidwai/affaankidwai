@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Affaan</h1>
 <h3 align="center">A Computer Science student interested in Web Dev and AIML</h3>
- <img align="centre" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" alt="Coder" width="400" height="400">
+ <img align="center" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" alt="Coder" width="400" height="400">
 
 
 
