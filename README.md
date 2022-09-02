@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Affaan</h1>
 <h3 align="center">A Computer Science student interested in Web Dev and AIML</h3>
- <img src="https://dribbble.com/shots/4502924-Python-developer-animation" alt="Coder" width="400" height="700">
+ <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" alt="Coder" width="400" height="700">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affaankidwai" alt="affaankidwai" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
