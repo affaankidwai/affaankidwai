@@ -11,7 +11,7 @@
 
 - 📫 Reach me @ **kidwaiaffaan@gmail.com**
 
-- ⚡ Coding fact **It's an infinite loop ❗️**
+- ⚡ Coding fact: **It's an infinite loop ❗️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
