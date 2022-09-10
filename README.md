@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **REACT, Python, ML, !DSA**
+- 💬 Ask me about **React, Python, ML, !DSA**
 
-- 📫 How to reach me **kidwaiaffaan@gmail.com**
+- 📫 Reach me @ **kidwaiaffaan@gmail.com**
 
-- ⚡ Fun fact **Coding**
+- ⚡ Coding fact **It's an infinite loop ❗️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
