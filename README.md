@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Affaan</h1>
 <h3 align="center">A Computer Science student interested in Web Dev and AIML</h3>
+<br>
  <img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" alt="Coder" width="400" height="300">
  
- <p align="right">**definitly not me**<p>
+<!--  <p align="right">**definitly not me**<p> -->
 
 
 
