@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React, Python, ML, !DSA**
+- 💬 Ask me about ** React, Python, ML, !DSA**
 
 - 📫 Reach me @ **kidwaiaffaan@gmail.com**
 
